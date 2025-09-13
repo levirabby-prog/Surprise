@@ -1,14 +1,15 @@
-# Happy Birthday Surprise 🎉
+# 🎉 Happy Birthday Surprise💖
 
-This is a simple GitHub Pages project made as a birthday surprise for **Meri Jaan**.  
+This is a special interactive birthday webpage.
 
-## How it works
-- Open the live GitHub Pages link.
-- You’ll see a personalized animated birthday message with confetti.  
-- Built using plain **HTML, CSS, and JavaScript** (no frameworks, no sensitive data).  
+## Features
+- Step 1: She clicks **“Click for surprise 💝”**  
+- Step 2: A **Happy Birthday message with confetti** appears 🎉  
+- Step 3: She clicks **“One more surprise 👉”**  
+- Step 4: A heartfelt message fades in with **floating hearts drifting around** 💖  
+- Final touch: *“Always yours ❤️”* glows softly at the end  
 
-## Notes
-- This repo can be safely deleted after the surprise to make the page disappear.  
-- To turn off GitHub Pages without deleting, go to **Settings → Pages → Branch → set to None**.  
-
-Made with ❤️
+## How to Run
+1. Clone or download this repo.
+2. Open `index.html` in your browser (mobile works best).
+3. Share the link and make her smile 😊
